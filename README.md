@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu Lara Luiza Marques de Oliverira
+Meu Lara Luiza Marques de Oliveira
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
